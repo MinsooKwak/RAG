@@ -13,6 +13,9 @@
   | **Chain**      | - type : ConversationalRetrievalChain / RetrievalQA<br>- 대화 저장을 위해 ConversationalRetrievalChain 사용(4개까지 지정) |
   | **비고**       | streamlit 통한 웹 제작                                                |
 
+- 선택 사항
+  - Model : GPT-3.5 turbo / GPT-4 (streamlit)
+  - Chain : RetrievalQA chain / ConversationalRetrieval Chain
 
 - 추후 진행 사항
   - postprocessing 과정으로 RAG 고도화 : reranking 추가 hybrid retrieval test (24.09)
