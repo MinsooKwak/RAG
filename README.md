@@ -13,4 +13,6 @@
 - Flow <br>
   ![image](https://github.com/user-attachments/assets/7528bca6-204b-4def-8fcd-46601e2ed78b)
 
-- 기타 : 개인 계정의 GPT 토큰 활용해 서비스 사용 가능하도록 추가 예정 (진행중)
+- 추후 진행 사항 :
+  - 개인 계정의 GPT 토큰 활용해 서비스 사용 가능하도록 추가 예정 (진행중)
+  - 이미지 및 표 활용해 RAG 진행 고도화
