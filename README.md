@@ -15,7 +15,7 @@
 
 
 - 추후 진행 사항
-  - postprocessing 과정으로 RAG 고도화 위해 reranking 추가한 하이브리드 retrieval test 예정 (24.09)
+  - postprocessing 과정으로 RAG 고도화 : reranking 추가 hybrid retrieval test (24.09)
   - 개인 계정의 GPT 토큰 활용해 서비스 사용 가능하도록 추가 예정 (진행중)
   - 이미지 및 표 활용해 RAG 진행 고도화
   
